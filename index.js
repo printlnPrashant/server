@@ -46,7 +46,7 @@ const data = [
 
 app.get('/', (req,res) => {
 
-    res.send("This is home page");
+    res.send("This is home page in this app");
 })
 
 
